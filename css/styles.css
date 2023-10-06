@@ -27,8 +27,9 @@ body {
   flex-shrink: 0;
   flex-basis: 30%;
   max-width: 30%;
-  /* hay que quitar el outline */
-  outline: solid red;
+
+  border: 1px solid #e3e3e3;
+  border-radius: 1em;
   display: flex;
   flex-direction: column;
   justify-content: center;
