@@ -1,3 +1,5 @@
 # Ejercicio Git Fow
 
-Cadata koder debe crear su avatar en la lista siguiendo la metodologia de git flow
+Cada koder debe crear su avatar en la lista siguiendo la metodologia de git flow
+
+### feat/nombre_koder
