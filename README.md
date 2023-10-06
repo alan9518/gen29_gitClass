@@ -19,3 +19,6 @@ Se cambia el archivo index en el Readme
 
 
 
+Cada koder debe crear su avatar en la lista siguiendo la metodologia de git flow
+
+### feat/nombre_koder
